@@ -2,17 +2,17 @@ title: My Portfolio Site
 profile_img: /assets/img/logo.png
 icon_img: /assets/img/logo.png
 
-name: "Your Name"
-job: "Your Job Title"
+name: "Chee Lee"
+job: "Software Engineer"
 
-phone_number: 111-222-3333
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
+phone_number: 715-212-0987
+address: Wausau, Wi
+email: cheeleertr@gmail.com
+linkedin_username: Chee Lee
+github_username: cheeleertr
+# instagram_username: instagram
+# twitter_username: twitter
+# facebook_username: facebook
 
 theme: jekyll-professional-resume
 
