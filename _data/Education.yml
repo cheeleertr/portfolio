@@ -2,17 +2,16 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: Turing School of Software & DesignTuring School of Software & Design
     description:
-      - Design of a method to build a probabilistic generative model
+      - 1500 hours, 7-month intensive ACCET-accredited software development program. Backend software development.
       - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+    date: Mar. 2024 - Sept. 2024
+  - title: Northcentral Technical College - Radiographer Associate's degree, Radiologic Technology/Science
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+      - Apply critical thinking and problem solving skills in the practice of diagnostic radiography
+      - Model professional and ethical behavior consistent with the A.R.R.T. Code of Ethics
+      - Provide quality patient care
+      - Practice radiation safety principles
+      - Carry out the production and evaluation of radiographic images
+    date: Sep 2015 - May 2018

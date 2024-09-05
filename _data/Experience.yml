@@ -2,21 +2,18 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Aspirus Health
+    role: Interventional Radiology Technologist
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Collaborated effectively with multidisciplinary healthcare teams to assisted interventional radiologists in performing a variety of diagnostic and therapeutic procedures, including angiograms, biopsies, and catheter placements.
+      - Participated in continuous education and training programs to stay current with technological advancements and procedural techniques.
+      - Received recognition for exemplary patient care and professionalism from both patients and colleagues.
+      - Mentored new technologists, providing training and support to ensure high competency levels within the team.
+    date: Sep 2018 - Mar 2024
+  - title: Northcentral Technical College
+    role: Biochemistry and Radiography Tutor
+    description:
+      - Provided one-on-one and group tutoring sessions in biochemistry and radiography, helping students grasp complex concepts through tailored learning strategies.
+      - Facilitated review sessions for exams, focusing on critical topics such as imaging techniques and the physics of radiation and energy transfer.
+      - Developed study materials and practice exercises, contributing to improved academic performance.
+    date: Sep 2018 - Mar 2024
