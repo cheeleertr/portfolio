@@ -2,16 +2,16 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Turing School of Software & DesignTuring School of Software & Design
+  - title: Turing School of Software & Design
     description:
       - 1500 hours, 7-month intensive ACCET-accredited software development program. Backend software development.
-      - Development of model calibration algorithm for cross-domain few-shot learning
+      # - 
     date: Mar. 2024 - Sept. 2024
   - title: Northcentral Technical College - Radiographer Associate's degree, Radiologic Technology/Science
     description:
       - Apply critical thinking and problem solving skills in the practice of diagnostic radiography
       - Model professional and ethical behavior consistent with the A.R.R.T. Code of Ethics
       - Provide quality patient care
-      - Practice radiation safety principles
+      - Practice, educate and enforce radiation safety principles
       - Carry out the production and evaluation of radiographic images
     date: Sep 2015 - May 2018

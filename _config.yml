@@ -8,11 +8,11 @@ job: "Software Engineer"
 phone_number: 715-212-0987
 address: Wausau, Wi
 email: cheeleertr@gmail.com
-linkedin_username: Chee Lee
+linkedin_username: chee-lee-rtr
 github_username: cheeleertr
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
+# instagram_username: instagram
+# twitter_username: twitter
+# facebook_username: facebook
 
 theme: jekyll-professional-resume
 
