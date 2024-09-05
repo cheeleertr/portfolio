@@ -2,19 +2,20 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Utah ABA Locator ([https://utahabalocator.com/](https://utahabalocator.com/))"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Created a website to help parents find autism treatment providers in Utah. Users can search and filter by county, insurance, and Spanish-speaking services, with Google Maps integration for location searches. The site also features autism screening tools like M-CHAT and CAST, along with educational resources to support families.
+      - Standardize and clean information from the ... to be used in a microservice that manages and stores provider information.
+      - Developed a backend API for user authentication and permissions, which integrates with a microservice for provider information management.
+      - "Technology Used: Ruby, Typescript, Rails, React, Postgresql"
+    image: "![](https://utahabalocator.com/static/media/NewLogo3.9b431a92e7071fca3091.png)"
+  - title: "Sweater Weather ([Github Repository](https://github.com/cheeleertr/sweater_weather))"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - Created an API with multiple endpoints including one that returns Roadtrip information containing travel time and forecast upon arrivel.
+      - Consume multiple external API to calculate locations, travel, and forecast.
+      - "Technology Used: Ruby, Rails, Postgresql"
+    # image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
+  - title: "PiTorch ([https://pitorch.org/](https://ch.org/))" 
     description: 
       - Machine learning library for applications such as computer vision and natural language processing
       - "Technology Used: Python, Cuda, Objective-C++"
