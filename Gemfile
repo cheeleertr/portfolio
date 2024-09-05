@@ -16,10 +16,16 @@ gem "jekyll", "~> 3.9"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-sitemap", "~> 1.3", '< 1.4'
+  # gem "jekyll-sitemap", "~> 1.3", '< 1.4'
   gem "jekyll-seo-tag", "~> 2.6"
   gem "kramdown-parser-gfm", "~> 1.1.0"
-  gem "webrick", "~> 1.7.0"
+  # gem "webrick", "~> 1.7.0"
+gem "jekyll-professional-resume"
+gem "jekyll-sitemap"
+gem "webrick"
+gem "public_suffix"
+gem "concurrent-ruby"
+gem "rexml"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -36,4 +42,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-gem "jekyll-professional-resume", "~> 1.0.1"
+# gem "jekyll-professional-resume", "~> 1.0.1"

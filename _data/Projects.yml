@@ -13,10 +13,12 @@ contents:
     description: 
       - Created an API with multiple endpoints including one that returns Roadtrip information containing travel time and forecast upon arrivel.
       - Consume multiple external API to calculate locations, travel, and forecast.
-      - "Technology Used: Ruby, Rails, Postgresql"
+      - "Technology Used: Ruby, Rails, PostgreSQL"
     # image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://ch.org/))" 
+  - title: "Warhammer 40K Battlegrounds ([Github Repository](https://github.com/orgs/turing40kconsultants/repositories))" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
+      - Developed a battle simulation game based on the Warhammer 40,000 tabletop game.
+      - Backend-aÄEW Consumed and parsed inconsistent complex external API data to build a custom Rails API for managing game units and factions
+      - Frontend- 
+      - "Technology Used: Ruby, Rails, PostgreSQL"
     image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
