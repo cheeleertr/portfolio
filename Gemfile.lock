@@ -118,7 +118,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 3.9)
   jekyll-feed (~> 0.12)
-  jekyll-professional-resume
+  jekyll-professional-resume (~> 1.0.1)
   jekyll-seo-tag (~> 2.6)
   jekyll-sitemap
   kramdown-parser-gfm (~> 1.1.0)

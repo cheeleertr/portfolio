@@ -20,7 +20,7 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag", "~> 2.6"
   gem "kramdown-parser-gfm", "~> 1.1.0"
   # gem "webrick", "~> 1.7.0"
-gem "jekyll-professional-resume"
+# gem "jekyll-professional-resume"
 gem "jekyll-sitemap"
 gem "webrick"
 gem "public_suffix"
@@ -42,4 +42,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-# gem "jekyll-professional-resume", "~> 1.0.1"
+gem "jekyll-professional-resume", "~> 1.0.1"
