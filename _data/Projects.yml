@@ -4,21 +4,27 @@ icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "Utah ABA Locator ([https://utahabalocator.com/](https://utahabalocator.com/))"
     description: 
-      - Created a website to help parents find autism treatment providers in Utah. Users can search and filter by county, insurance, and Spanish-speaking services, with Google Maps integration for location searches. The site also features autism screening tools like M-CHAT and CAST, along with educational resources to support families.
+      - A website to help parents find autism treatment providers in Utah. Users can search and filter by county, insurance, and Spanish-speaking services, with Google Maps integration for location searches. The site also features autism screening tools like M-CHAT and CAST, along with educational resources to support families.
       - Standardize and clean information from external sources to be used in a microservice that manages and stores provider information.
       - Developed a backend API for user authentication and permissions, which integrates with a microservice for provider information management.
       - "Technology Used: Ruby, Typescript, Rails, React, Postgresql"
     image: "![](https://utahabalocator.com/static/media/NewLogo3.9b431a92e7071fca3091.png)"
   - title: "Warhammer 40K Battlegrounds ([Github Repository](https://github.com/orgs/turing40kconsultants/repositories))" 
     description: 
-      - Developed a battle simulation game based on the Warhammer 40,000 tabletop game.
-      - Backend-aÄEW Consumed and parsed inconsistent complex external API data to build a custom Rails API for managing game units and factions
-      - Frontend- 
+      - A battle simulation game based on the Warhammer 40,000 tabletop game.
+      - Backend- Consumed and parsed inconsistent complex external API data to build a custom Rails API for managing game units and factions
+      - Frontend- Engineered all game logic and managed API consumption and data flow across the application. Integrated GitHub OAuth for user authentication and utilized Bootstrap for a responsive design.
       - "Technology Used: Ruby, Rails, PostgreSQL"
     image: "![](https://avatars.githubusercontent.com/u/176330424?s=200&v=4)"
   - title: "Sweater Weather ([Github Repository](https://github.com/cheeleertr/sweater_weather))"
     description: 
-      - Created an API with multiple endpoints including one that returns Roadtrip information containing travel time and forecast upon arrivel.
+      - An API with multiple endpoints including one that returns Roadtrip information containing travel time and forecast upon arrival.
       - Consume multiple external API to calculate locations, travel, and forecast.
       - "Technology Used: Ruby, Rails, PostgreSQL"
-    # image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
+  - title: "Little Esty Shop/Bulk Discounts ([Github Repository](https://github.com/cheeleertr/little-esty-bulk-discounts))"
+    description:
+      - An E-commerce application for merchants to apply discounts and track revenue and invoices.
+      - Implemented CRUD functionality for discount management based on item quantity.
+      - Utilized ActiveRecord to enable admins and merchants to monitor discounted revenue and applying appropriate discounts.
+      - Deployed a multi-tenant E-commerce web application to Heroku with a relational database structure.
+      - "Technology Used: Ruby on Rails, PostgreSQL, Active Record"
